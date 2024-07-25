@@ -1,2 +1,2 @@
 # fanta
-This is for my youtube channel tutorial.
+This is my 1st website with Scroll Animation using GSPA & Scroll Trigger.
